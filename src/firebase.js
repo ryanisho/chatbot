@@ -3,7 +3,7 @@ import "firebase/compat/auth";
 import "firebase/compat/firestore";
 
 const firebaseApp = firebase.initializeApp({
- apiKey: "AIzaSyBIdWtIN0DhDtxCeafj7hnIVwamexNe7nQ",
+ apiKey: "API_KEY_HERE",
  authDomain: "chatbot-aa5fa.firebaseapp.com",
  projectId: "chatbot-aa5fa",
  storageBucket: "chatbot-aa5fa.appspot.com",
